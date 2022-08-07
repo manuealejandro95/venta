@@ -1,0 +1,1 @@
+SELECT Nombre FROM productos WHERE Cantidad = (SELECT MAX(Cantidad) FROM productos);
