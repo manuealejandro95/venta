@@ -4,8 +4,8 @@
 3. [Installation](#installation)
 ### General Info
 *Sistema de administracion de inventario
-*Este Programa solo registra Usuario en el modulo de usuario
-*Posee todo el CRUD en el modulo de Productos.
+*Este Programa solo registra Usuarios en el modulo de usuarios
+*En el modulo de productos tiene el CRUD completo
 
 ## Technologies
 *php 7.4
